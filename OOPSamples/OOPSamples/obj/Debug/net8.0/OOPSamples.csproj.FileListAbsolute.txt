@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\TEJO\OOPSamples\OOPSamples\bin\Debug\net8.0\OOPSamples.exe
+C:\Users\Student\Desktop\TEJO\OOPSamples\OOPSamples\bin\Debug\net8.0\OOPSamples.deps.json
+C:\Users\Student\Desktop\TEJO\OOPSamples\OOPSamples\bin\Debug\net8.0\OOPSamples.runtimeconfig.json
+C:\Users\Student\Desktop\TEJO\OOPSamples\OOPSamples\bin\Debug\net8.0\OOPSamples.dll
+C:\Users\Student\Desktop\TEJO\OOPSamples\OOPSamples\bin\Debug\net8.0\OOPSamples.pdb
+C:\Users\Student\Desktop\TEJO\OOPSamples\OOPSamples\obj\Debug\net8.0\OOPSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\TEJO\OOPSamples\OOPSamples\obj\Debug\net8.0\OOPSamples.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\TEJO\OOPSamples\OOPSamples\obj\Debug\net8.0\OOPSamples.AssemblyInfo.cs
+C:\Users\Student\Desktop\TEJO\OOPSamples\OOPSamples\obj\Debug\net8.0\OOPSamples.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\TEJO\OOPSamples\OOPSamples\obj\Debug\net8.0\OOPSamples.dll
+C:\Users\Student\Desktop\TEJO\OOPSamples\OOPSamples\obj\Debug\net8.0\refint\OOPSamples.dll
+C:\Users\Student\Desktop\TEJO\OOPSamples\OOPSamples\obj\Debug\net8.0\OOPSamples.pdb
+C:\Users\Student\Desktop\TEJO\OOPSamples\OOPSamples\obj\Debug\net8.0\OOPSamples.genruntimeconfig.cache
+C:\Users\Student\Desktop\TEJO\OOPSamples\OOPSamples\obj\Debug\net8.0\ref\OOPSamples.dll
