@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\TEJO\EncapsulationTest\obj\Debug\net8.0\EncapsulationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\TEJO\EncapsulationTest\obj\Debug\net8.0\EncapsulationTest.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\TEJO\EncapsulationTest\obj\Debug\net8.0\EncapsulationTest.AssemblyInfo.cs
+C:\Users\Student\Desktop\TEJO\EncapsulationTest\obj\Debug\net8.0\EncapsulationTest.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\TEJO\EncapsulationTest\obj\Debug\net8.0\EncapsulationTest.sourcelink.json
+C:\Users\Student\Desktop\TEJO\EncapsulationTest\bin\Debug\net8.0\EncapsulationTest.exe
+C:\Users\Student\Desktop\TEJO\EncapsulationTest\bin\Debug\net8.0\EncapsulationTest.deps.json
+C:\Users\Student\Desktop\TEJO\EncapsulationTest\bin\Debug\net8.0\EncapsulationTest.runtimeconfig.json
+C:\Users\Student\Desktop\TEJO\EncapsulationTest\bin\Debug\net8.0\EncapsulationTest.dll
+C:\Users\Student\Desktop\TEJO\EncapsulationTest\bin\Debug\net8.0\EncapsulationTest.pdb
+C:\Users\Student\Desktop\TEJO\EncapsulationTest\obj\Debug\net8.0\EncapsulationTest.dll
+C:\Users\Student\Desktop\TEJO\EncapsulationTest\obj\Debug\net8.0\refint\EncapsulationTest.dll
+C:\Users\Student\Desktop\TEJO\EncapsulationTest\obj\Debug\net8.0\EncapsulationTest.pdb
+C:\Users\Student\Desktop\TEJO\EncapsulationTest\obj\Debug\net8.0\EncapsulationTest.genruntimeconfig.cache
+C:\Users\Student\Desktop\TEJO\EncapsulationTest\obj\Debug\net8.0\ref\EncapsulationTest.dll
